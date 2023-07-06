@@ -10,3 +10,5 @@ git branch "nome" -> cria a branch nova
 git branch --list -> listar as branches
 git checkout "name" -> change the branch
 git branch -d "nome -> deleta uma branch for name
+
+git clone endereço -> clonar o repositorio
